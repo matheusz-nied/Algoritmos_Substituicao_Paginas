@@ -37,15 +37,15 @@ Os resultados experimentais são apresentados graficamente, comparando o desempe
 
 2. **Compilação:**
 
-   - Compile manualmente os arquivos fontes. Por exemplo, para um arquivo `simulador.c`:
+   - Compile manualmente os arquivos fontes. Por exemplo, para um arquivo `paginacao.c`:
      ```bash
-     gcc -o simulador simulador.c
+     gcc -o paginacao paginacao.c
      ```
 
 3. **Execução do Simulador:**
-   - Após a compilação, execute o simulador fornecendo os parâmetros necessários. Por exemplo:
+   - Após a compilação, execute o paginacao fornecendo os parâmetros necessários. Por exemplo:
      ```bash
-     ./simulador
+     ./paginacao
      ```
 
 4. **Configuração de Parâmetros:**
